@@ -1,0 +1,17 @@
+{
+  "name": "quark-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^2.0.29",
+    "typescript": "^2.1.4",
+    "uuid": "^3.0.1"
+  }
+}
